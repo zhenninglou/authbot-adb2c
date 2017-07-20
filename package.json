@@ -1,0 +1,25 @@
+{
+  "name": "emptybot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "azure-function-express": "^1.2.2",
+    "botbuilder": "^3.7.0",
+    "botbuilder-azure": "3.0.2",
+    "express": "^4.15.3",
+    "express-session": "^1.15.3",
+    "nodemon": "^1.11.0",
+    "passport": "^0.3.2",
+    "passport-azure-ad": "^3.0.8",
+    "passport-restify": "^1.0.1"
+  },
+  "devDependencies": {
+    "restify": "^4.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
